@@ -1,5 +1,5 @@
 
- export const obj= [
+ export const objlista= [
     {
         cim: "Virag1",
         src: "kepek/DSC7681.jpeg",
